@@ -6,12 +6,19 @@ Application Android permettant d'estimer la taxe d'habitation d'un logement en f
 
 ## 📱 Aperçu
 
+
+
+
+https://github.com/user-attachments/assets/91060aee-ef6a-4d31-ae65-e6e3f1d88db4
+
+
 L'application calcule et affiche en temps réel :
 - La **taxe de base** selon la superficie
 - La **taxe supplémentaire** selon le nombre de chambres et la présence d'un jardin
 - Le **montant total** de la taxe d'habitation
 
 ---
+
 
 ## ✨ Fonctionnalités
 
@@ -70,7 +77,7 @@ app/
 
 1. Clone le dépôt :
 ```bash
-git clone https://github.com/TON_USERNAME/taxe-habitation-android.git
+git clone https://github.com/lakbita-khadija/LAB2_taxe-habitation.git
 ```
 2. Ouvre le projet dans **Android Studio**
 3. Lance l'application sur un émulateur ou un appareil Android
